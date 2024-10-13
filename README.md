@@ -3,4 +3,4 @@
 
 I made this repo to host MyResume onto github Pages
 
-you can Find the page at the following link [MyResume Site](OussamaBenoujja.github.io/MyResume)
+you can Find the page at the following link [MyResume Site](https://oussamabenoujja.github.io/MyResume/)
